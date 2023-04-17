@@ -1,0 +1,7 @@
+{"level":"error","message":"\"title\" is required"}
+{"level":"error","message":"\"author\" is required"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"\"author\" must be a string"}
+{"level":"error","message":"\"author\" must be a string"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'id')"}
+{"level":"error","message":"\"IBN_number\" is not allowed"}
